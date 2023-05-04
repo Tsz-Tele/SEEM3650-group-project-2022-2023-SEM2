@@ -1,5 +1,6 @@
 # SEEM3650-group-project-2022-2023-SEM2
 SEEM3650 group project 2022-2023 SEM2
+# use RAW view
 
 The Minimum Air Temperature is obtained from Hong Kong Observatory with the average of 
 Kowloon City minimum air temperature and Wong Tai Sin minimum air temperature. Same as
