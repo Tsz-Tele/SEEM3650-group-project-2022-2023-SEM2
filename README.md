@@ -1,6 +1,7 @@
 # SEEM3650-group-project-2022-2023-SEM2
 SEEM3650 group project 2022-2023 SEM2
-use RAW view
+
+Use RAW view for the structure of data
 
 The Minimum Air Temperature is obtained from Hong Kong Observatory with the average of 
 Kowloon City minimum air temperature and Wong Tai Sin minimum air temperature. Same as
@@ -11,13 +12,14 @@ from King’s Park. For Weekday, Weekend, Holiday, Day After Holiday, we obtaine
 information from the Hong Kong Calendar. The data is represented in 0 and 1, where 0 means
 negative, 1 means positive.
 
+
 The structure of the data for model building (X-axis):
+
 	 Minimum Air Temperature ||	Maximum Air Temperature ||	Relative Humidity (%) ||	Rainfall (mm) ||	Weekday ||	Weekend ||	Holiday ||	Day after holiday
-0	          17.80	                  28.05	                     64	                  0.0	             0	         1	         1	            0
-1	          14.25	                  20.40	                     45	                  0.0	             1	         0	         0	            1
-2	          12.75	                  20.15	                     34	                  0.0	             1	         0	         0	            0
-3	          13.30	                  21.45	                     27	                  0.0	             1	         0	         0	            0
-4	          12.20	                  17.90	                     43	                  1.2	             1	         0	         0	            0
+
+
+(picture of the table)
+![image](https://user-images.githubusercontent.com/102592609/236302458-40ca7aad-4bea-44d5-8716-7876fafd6407.png)
 
 While the No. of A&E first attendances,	total adult patient and	total children patient are the y axis for the model building of total, adult and children patients respectively.
 
